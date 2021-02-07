@@ -1,5 +1,7 @@
 # Salesforce Notification Engine
 
+[Deploy to Salesforce](https://githubsfdeploy.herokuapp.com/app/githubdeploy/manjit5190/notification-manager)
+
 This repository allows you to manage custom notifications and remove the pain of managing the governor limits of
 notification.
 
