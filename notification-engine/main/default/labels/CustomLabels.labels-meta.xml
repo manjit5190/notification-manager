@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>SFNotificationError</fullName>
+        <categories>SFNotification</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Error status</shortDescription>
+        <value>Error</value>
+    </labels>
+    <labels>
+        <fullName>SFNotificationErrorNotificationType</fullName>
+        <categories>SFNotification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Notification type empty</shortDescription>
+        <value>Notification type cannot be blank.</value>
+    </labels>
+    <labels>
+        <fullName>SFNotificationErrorPriority</fullName>
+        <categories>SFNotification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Priority empty</shortDescription>
+        <value>Priority cannot be blank.</value>
+    </labels>
+    <labels>
+        <fullName>SFNotificationErrorRecipient</fullName>
+        <categories>SFNotification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recipients empty</shortDescription>
+        <value>Recipients cannot be empty.</value>
+    </labels>
+    <labels>
+        <fullName>SFNotificationErrorTarget</fullName>
+        <categories>SFNotification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TargetId/Reference empty</shortDescription>
+        <value>Both record Id and page reference cannot be blank.</value>
+    </labels>
+    <labels>
+        <fullName>SFNotificationErrorTitleBody</fullName>
+        <categories>SFNotification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title/Body empty</shortDescription>
+        <value>Title and body cannot be blank.</value>
+    </labels>
+    <labels>
+        <fullName>SFNotificationQueued</fullName>
+        <categories>SFNotification</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Queued status</shortDescription>
+        <value>Queued</value>
+    </labels>
+    <labels>
+        <fullName>SFNotificationSuccess</fullName>
+        <categories>SFNotification</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Success status</shortDescription>
+        <value>Success</value>
+    </labels>
+</CustomLabels>
