@@ -6,7 +6,7 @@
   "scripts": {
     "package:create": "sfdx force:package:create --name \"Notification manager\" --path notification-engine --packagetype Unlocked --targetdevhubusername partner-hub --errornotificationusername manjit5190@devhub.com",
     "package:version": "sfdx force:package:version:create --package \"Notification manager\" --installationkeybypass --wait 10 --codecoverage",
-    "package:install": "sfdx force:package:install --package 04t2x000003kEHXAA2 --targetusername some-org --wait 10 --publishwait 10",
+    "package:install": "sfdx force:package:install --package SOME ID --targetusername some-org --wait 10 --publishwait 10",
     "package:status": "sfdx force:package:version:create:report",
     "package:promote": "sfdx force:package:version:promote --package \"Notification manager@0.1.0-5\"",
     "lint": "npm run lint:lwc && npm run lint:aura",
