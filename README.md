@@ -1,4 +1,4 @@
-# Salesforce Notification Engine
+# Salesforce Notification Manager
 
 [Deploy to Salesforce](https://githubsfdeploy.herokuapp.com/app/githubdeploy/manjit5190/notification-manager)
 
